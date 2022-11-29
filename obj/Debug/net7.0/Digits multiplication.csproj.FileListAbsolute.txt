@@ -1,0 +1,15 @@
+C:\Mon_Code\Digits multiplication\bin\Debug\net7.0\Digits multiplication.exe
+C:\Mon_Code\Digits multiplication\bin\Debug\net7.0\Digits multiplication.deps.json
+C:\Mon_Code\Digits multiplication\bin\Debug\net7.0\Digits multiplication.runtimeconfig.json
+C:\Mon_Code\Digits multiplication\bin\Debug\net7.0\Digits multiplication.dll
+C:\Mon_Code\Digits multiplication\bin\Debug\net7.0\Digits multiplication.pdb
+C:\Mon_Code\Digits multiplication\obj\Debug\net7.0\Digits multiplication.csproj.AssemblyReference.cache
+C:\Mon_Code\Digits multiplication\obj\Debug\net7.0\Digits multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Digits multiplication\obj\Debug\net7.0\Digits multiplication.AssemblyInfoInputs.cache
+C:\Mon_Code\Digits multiplication\obj\Debug\net7.0\Digits multiplication.AssemblyInfo.cs
+C:\Mon_Code\Digits multiplication\obj\Debug\net7.0\Digits multiplication.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Digits multiplication\obj\Debug\net7.0\Digits multiplication.dll
+C:\Mon_Code\Digits multiplication\obj\Debug\net7.0\refint\Digits multiplication.dll
+C:\Mon_Code\Digits multiplication\obj\Debug\net7.0\Digits multiplication.pdb
+C:\Mon_Code\Digits multiplication\obj\Debug\net7.0\Digits multiplication.genruntimeconfig.cache
+C:\Mon_Code\Digits multiplication\obj\Debug\net7.0\ref\Digits multiplication.dll
